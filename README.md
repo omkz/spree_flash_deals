@@ -36,4 +36,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_flash_deals/factories'
 ```
 
-Copyright (c) 2015 [name of extension creator], released under the New BSD License
+Copyright (c) 2015 kurnia muhammad, released under the New BSD License [New BSD License](https://github.com/omenkzz/spree_flash_deals/tree/master/LICENSE).
